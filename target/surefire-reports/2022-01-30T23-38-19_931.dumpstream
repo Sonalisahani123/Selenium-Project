@@ -1,0 +1,4 @@
+# Created at 2022-01-30T23:38:29.244
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Naveen\JavaSeleniumQueuries\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
